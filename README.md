@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/meet463/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/meet463/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/meet463/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/meet463/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/meet463/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
