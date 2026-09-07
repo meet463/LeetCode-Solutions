@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/meet463/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/meet463/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/meet463/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/meet463/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/meet463/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/meet463/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/meet463/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/meet463/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/meet463/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
